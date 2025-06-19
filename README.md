@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Data Scientist and AI engineer.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1nuc" alt="1nuc" /></a> </p>
-
 - 🔭 I’m currently working on **Data Science.**
 
 - 🌱 I’m currently learning **AWS Cloud**
